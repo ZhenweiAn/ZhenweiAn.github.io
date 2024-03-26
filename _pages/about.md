@@ -1,7 +1,10 @@
 ---
-title: "Page Not Found"
-sitemap: false
-permalink: /about.html
+permalink: /
+title: "introduction"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 I am an Algorithm Developer at a  LLM startup now. I specialize in developing foundational models and crafting innovative AI applications that engage users. I graduated with a Bachelor's degree in Computer Science from Peking University in 2020, where my passion for AI led me to pursue research on building trustworthy Legal AI models under the esteemed supervision of Professor Yansong Feng. This research culminated in my Master's degree in 2023.
 
