@@ -11,8 +11,7 @@ locale                   : "en-US"
 title_separator          : "-"
 name                     : &name "Zhenwei An"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://zhenweian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -34,12 +33,9 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -189,16 +185,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
