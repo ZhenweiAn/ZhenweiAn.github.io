@@ -19,9 +19,8 @@ repository               : "ZhenweiAn/ZhenweiAn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "xinjiang.png"
   name             : "Zhenwei An"
-  pronouns         : "he"  
   location         : "BeiJing"
   email            : "anzhenwei@pku.edu.cn" 
 
